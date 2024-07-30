@@ -35,7 +35,9 @@ Follow these steps to set up and run the project on your local machine:
 - MySQL (or your preferred database system)
 
 # 📸 Screenshots
-![Screenshot 2024-07-30 204418](https://github.com/user-attachments/assets/9eb00bbf-30db-46b5-ae03-1aa63f672fdf)![Screenshot 2024-07-30 204847](https://github.com/user-attachments/assets/271b2ac7-4020-46ec-818b-c431f93aac54)
+![Screenshot 2024-07-30 204418](https://github.com/user-attachments/assets/9eb00bbf-30db-46b5-ae03-1aa63f672fdf) ![Screenshot 2024-07-30 210034](https://github.com/user-attachments/assets/c3145126-3bd1-47a9-90e9-2bc4675f6c4e)
+
+![Screenshot 2024-07-30 204847](https://github.com/user-attachments/assets/271b2ac7-4020-46ec-818b-c431f93aac54)
 
 ![Screenshot 2024-07-30 204902](https://github.com/user-attachments/assets/3bc0fc7c-e98d-4231-b381-a595b8eea497)
 
